@@ -13,7 +13,7 @@ class Forward(Jogador):
 
 
 jog1 = Forward("Yoichi Isagi", "Chute Direto e Metavisão", "Bastard München")
-jog2 = Forward("Michael Kaiser", "Kaiser Impact e Metavisão", "Bastard München")
+jog2 = Forward("Michael Kaiser", "Kaiser Impact e Metavisão", "Re Al")
 
 jog1.exec()
 jog2.exec()
